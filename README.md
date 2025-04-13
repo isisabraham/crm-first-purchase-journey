@@ -1,10 +1,21 @@
 # 🧭 Bagaggio First Purchase CRM Journey
 
-This repository contains a visual flowchart of the **post-purchase CRM automation** for Bagaggio, a retail brand specializing in travel goods such as suitcases, backpacks, and accessories.
+This repository contains a **partial example** of a CRM automation project developed for Bagaggio, a retail brand specializing in travel goods such as suitcases, backpacks, and accessories.
 
-## 📂 File Included
+📌 **Note:** This is not the full project. This is a translated and adapted section of the customer journey used as a sample for showcasing in English.
+
+## 📂 Files Included
 
 - `Flowchart.jpg`: Visual flowchart exported from Miro, outlining the email and SMS/WhatsApp automation based on customer behavior after their first purchase.
+
+## 🖥️ View Live Board on Miro
+
+Below is a static preview of the CRM journey flowchart:
+
+![Bagaggio CRM Journey Preview](preview.jpg)
+
+> For the interactive version, access the Miro board:
+🔗 [View the CRM Journey Board on Miro (public)](https://miro.com/app/live-embed/uXjVIDd346s=/?moveToViewport=-849,-2598,4178,3939&embedId=8083431114)
 
 ## 🎯 Project Purpose
 
@@ -58,7 +69,6 @@ Each branch includes **email marketing touchpoints** and optional **SMS/WhatsApp
 - Salesforce Marketing Cloud
 - Dito CRM
 - Any ESP that supports conditional logic and segmentation
-- Klavyio
 
 ## 📈 Optimization Tips
 
@@ -67,7 +77,7 @@ Each branch includes **email marketing touchpoints** and optional **SMS/WhatsApp
 - Track conversions with **UTM links**.
 - Monitor open/click/redeem rates for retargeting flows.
 
-## 📌 Author
+## 👩‍💻 Author
 
 **Isis Abraham**  
 Digital Marketing & CRM Strategist  
@@ -75,4 +85,3 @@ Digital Marketing & CRM Strategist
 🔗 [github.com/isisabraham](https://github.com/isisabraham)
 
 ---
-
