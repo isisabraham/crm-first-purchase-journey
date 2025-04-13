@@ -58,6 +58,7 @@ Each branch includes **email marketing touchpoints** and optional **SMS/WhatsApp
 - Salesforce Marketing Cloud
 - Dito CRM
 - Any ESP that supports conditional logic and segmentation
+- Klavyio
 
 ## 📈 Optimization Tips
 
